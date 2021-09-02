@@ -1,9 +1,23 @@
 h1{
-  color: #111111
-  background-color: #5555ef
+  color: #ffffff;
+  background-color: #000099;
   font-family: 'Hina Mincho', serif;
+  margin:20px;
 }
 #listIntro{
-  background-color: "red"
+  background-color: "red";
   font-family: 'Hina Mincho', serif;
+}
+#all{
+  text-align: center;
+}
+.main{
+  color: #ffffff;
+  background-color: #0000ff;
+font-family: 'Architects Daughter', cursive;
+margin: 50px;
+padding: 50px;
+}
+#list2{
+  font-size: 80px;
 }
