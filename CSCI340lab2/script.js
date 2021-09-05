@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $.ajax({
-    URL: "https://opentdb.com/api.php?amount=10",
+    url: "https://opentdb.com/api.php?amount=10",
     //contentType:"application/json",
     dataType: "json",
     success: function(data){
