@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $.ajax({
     URL: "https://opentdb.com/api.php?amount=10",
-    contentType:"application/json",
+    //contentType:"application/json",
     dataType: "json",
     success: function(data){
       $("h2").text("works");
