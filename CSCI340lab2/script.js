@@ -8,7 +8,6 @@ $(document).ready(function() {
     },
     error: function (jqXhr, textStatus, errorMessage) { // error callback
         $('h1').append('Error: ' + errorMessage);
-        console.warn(xhr.responseText);
     }
   })
 });
