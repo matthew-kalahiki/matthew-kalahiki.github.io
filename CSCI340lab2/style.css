@@ -1,0 +1,35 @@
+body{
+  background-image: url("background-image.jpg");
+}
+#firstDiv{
+  background: rgba(250, 250, 200, 0.7);
+  margin : 50px;
+  padding : 20px;
+  text-align: center;
+  font-family: 'IM Fell DW Pica', serif;
+}
+#trivia{
+  padding:20px;
+  border-style:solid;
+}
+#option0{
+visibility: hidden;
+}
+#option1{
+visibility:hidden;
+}
+#option2{
+visibility: hidden;
+}
+#option3{
+visibility: hidden;
+}
+#continue{
+  visibility: hidden;
+}
+#joke{
+  font-style: italic;
+}
+.triv{
+  font-family: 'Spartan', sans-serif;
+}
