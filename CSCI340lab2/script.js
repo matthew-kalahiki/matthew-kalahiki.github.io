@@ -33,8 +33,12 @@ function nextQuestion(){
     $("#option" + i).click(function(){
       if(i == randIndex && !isAnswered){
         correct();
+        $("#option" + i).css("background-color","green");
       }else if(!isAnswered){
         incorrect();
+        $("#option" + i).css("background-color","red");
+        $("#option" + randIndex).css("background-color","green");
+
       }
 
     })
@@ -73,6 +77,9 @@ function nextQuestion(){
     $("#joke").html("");
     $("#continue").css("visibility","hidden");
     nextQuestion();
+    for(let i =0;i < 4; i++){
+      $("#option" + i).css("background-color","");
+    }
     isAnswered = false;
 
   })
