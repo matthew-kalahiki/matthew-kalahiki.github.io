@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Back at it with AAB"
+date:   2023-02-01 22:22:14 -0500
+categories: update
+---
+After a long and much needed winter break, Disco Tray is back to work.
+I pick up where I left off working on the Arkansas Asset Builders program that we hope to get finished by early February.
+I recently finished making new models for the new Data Base schema and a Data Base Initialization method that makes a Data Base
+If there isn't one already.
+
+At the moment, I'm working on updating the filter menu and the tables to match our new Data Base Schema.
+
+While we still have some work to do, the program is coming along very nicely, and we should be finished very soon.
