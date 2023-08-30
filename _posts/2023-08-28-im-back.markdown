@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "I'm Back"
+date:   2023-08-28 22:22:14 -0500
+categories: update
+---
+
+For the first week back at Disco Tray, I've been working on fixing some minor issues for VITAmin. Basically, exporting the current filtered data doesn't give confirmation when download is completed, and sometimes, the download results in an empty csv file. It took some time to refamiliarize myself with the code, but after that was said and done, it was pretty simple to add a confirmation alert. However, I'm still having trouble replicating the empty file issue. Hopefully, I can call in some help this week finding the issue and then fixing it. 
