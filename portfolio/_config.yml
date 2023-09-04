@@ -22,7 +22,7 @@ subtitle                 : "Portfolio" # site tagline that appears below site ti
 name                     : "Matthew Kalahiki"
 description              : "This is a portfolio of some of my notable projects."
 # url                      : "https://matthew-kalahiki.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "matthew-kalahiki/portfolio" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : "/assets/img/Matthew.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : "/assets/img/Matthew.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
