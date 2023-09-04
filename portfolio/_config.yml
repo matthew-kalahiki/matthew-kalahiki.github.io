@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Portfolio" # site tagline that appears below site title in masthead
 name                     : "Matthew Kalahiki"
 description              : "This is a portfolio of some of my notable projects."
-url                      : "https://matthew-kalahiki.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #"https://matthew-kalahiki.github.io" the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "matthew-kalahiki/portfolio" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : "/assets/img/Matthew.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
