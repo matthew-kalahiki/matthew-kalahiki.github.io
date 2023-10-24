@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hendrix Assessment Update 4"
-date:   2023-010-20 22:22:14 -0500
+date:   2023-10-20 22:22:14 -0500
 categories: update
 ---
 
