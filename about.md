@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My name is Matthew Kalahiki, and I'm currently a student at Hendrix College. I'm double majoring in Computer Science and Economics and Business, and I'm a proud member of Disco Tray Studios. 
+My name is Matthew Kalahiki, and I am a software developer and data analyst. I graduated from Hendrix College with a Bachelors of Arts in Computer Science and Economics & Business. 
